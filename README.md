@@ -1,4 +1,6 @@
-### Hi there 👋
+"center">Hi there, I'm <a href="https://www.linkedin.com/in/dmitriy-fetyukhin-93b56822a/" target="_blank">Dima</a> 
+
+
 
 <!--
 **DimaParachute/DimaParachute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
